@@ -3,6 +3,8 @@
 <div style="display: grid; grid-template-columns: 1fr 300px;">
     <div>
         Useful resources for the original Xbox. For educational use only.
+        This is a work in progress. Pull requests are more than welcome!
+        My intention here is to provide a mirror of useful things collected in a easily navigatable / accessible place.
         <br /><a href="errorcodes.md">Error Codes</a>
     </div>
     <img src="modchips/x3/xecuter-3-chip.webp" width="300px" height="300px"/>
