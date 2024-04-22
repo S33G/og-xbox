@@ -11,6 +11,8 @@
 </div>
 
 ## Useful Links
+[Rocky5 Softmodding tool](https://github.com/Rocky5/Xbox-Softmodding-Tool)
+
 [Xbox Board Reverse Engineering](https://github.com/LoveMHz/xbox-board-re)
 
 [Pinecone](https://github.com/Xbox-Preservation-Project/Pinecone)
