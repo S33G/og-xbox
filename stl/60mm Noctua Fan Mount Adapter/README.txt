@@ -1,0 +1,1 @@
+Xbox 60mm Noctua Fan Mount Adapter (for Original Xbox) by mafredri on Thingiverse: https://www.thingiverse.com/thing:4617648
