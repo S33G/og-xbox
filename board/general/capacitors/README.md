@@ -16,6 +16,7 @@ It is possible to do it yourself, though we are not responsible for and damage c
 - [Wikipedia: Capacitor Plague](https://en.m.wikipedia.org/wiki/Capacitor_plague?wprov=sfla1)
 
 - [Replacing Motherboard Capacitors How-To](https://capacitorlab.com/replacing-motherboard-capacitors-howto/)
+- [How to Test a Capacitor With a Multimeter](https://tameson.co.uk/pages/capacitor-multimeter)
 
 ## Hardware by Motherboard Revision
 - [Xbox v1.0 - v1.1](v1.0-1.1.md)
