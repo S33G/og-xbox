@@ -23,7 +23,7 @@ It is possible to do it yourself, though we are not responsible for and damage c
 - [Xbox v1.2 - v1.5](v1.2-1.5.md)
 - [Xbox v1.6](v1.6.md)
 
-## Videos:
+## Videos
 - [Great Video on Capacitor Life](https://www.youtube.com/watch?v=yGHV7xeKGcE)
 - [What is a Capacitor and Common Uses](https://www.youtube.com/watch?v=L6cgSxpGmDo)
 - [Thru-Hole Capacitor Replacement](https://www.youtube.com/watch?v=YCSNWi3UHf4)
