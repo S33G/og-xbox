@@ -50,6 +50,8 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
 
+[Team-Resurgent/Pandora](https://github.com/Team-Resurgent/Pandora)
+
 [Xbox Hard Drive Compatibility Chart](https://xboxdrives.x-pec.com/?p=list)
 
 
