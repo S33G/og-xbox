@@ -1,4 +1,9 @@
 # v1.0 Motherboards
+![v1.1 Xbox Motherboard Example](resurgence.webp)
+
+### v1.1 Console with Project Stellar Motherboard
+![v1.1 Project Stellar Motherboard](1.1-stellar.jpeg)
+
 # The Segaholic's Photos
 [Twitter](twitter.com/The_SegaHolic) / [YouTube](https://www.youtube.com/channel/UCv66_uOZ4kjqrRQ8cTr2L_Q) / [Flickr](flickr.com/photos/ctwentytwo)
 
