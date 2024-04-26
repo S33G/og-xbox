@@ -12,7 +12,7 @@ My aim is to create a resource that reflects the collective knowledge and insigh
 
 Please note that the information presented here is currently in draft form and may contain inaccuracies or require further refinement.
 
-Feel free to <a href="#create_pr">create a pr</a> or <a href="#create_issue">or issue</a> in our repository. Whether you've spotted an error, have a suggestion for improvement, or want to share additional insights, your active participation is crucial.
+Feel free to create a pr or an <a href="https://github.com/S33G/og-xbox/issues/new">issue</a> in our repository. Whether you've spotted an error, have a suggestion for improvement, or want to share additional insights, your active participation is crucial.
 
 Thank you for your dedication in shaping this content into a valuable resource for the entire Xbox community. Together, we can create something truly exceptional!
 
