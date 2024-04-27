@@ -42,7 +42,11 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [Endgame exploit](https://github.com/XboxDev/endgame-exploit)
 
-[OGX360 Internal Conversion Kit](https://github.com/TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit)
+[Ryzee119/ogx360](https://github.com/Ryzee119/ogx360)
+
+[wiredopposite/OGX-Mini](https://github.com/wiredopposite/OGX-Mini)
+
+[TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit](https://github.com/TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit)
 
 [JayFoxRox/xbox-fps-overlay](https://github.com/JayFoxRox/xbox-fps-overlay)
 
