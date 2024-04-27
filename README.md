@@ -42,6 +42,8 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [Endgame exploit](https://github.com/XboxDev/endgame-exploit)
 
+[OGX360 Internal Conversion Kit](https://github.com/TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit)
+
 [JayFoxRox/xbox-fps-overlay](https://github.com/JayFoxRox/xbox-fps-overlay)
 
 [LoveMHz/xbox-board-re](https://github.com/LoveMHz/xbox-board-re) (+ High res images + svg v1.6)
