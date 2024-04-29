@@ -42,35 +42,34 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [Endgame exploit](https://github.com/XboxDev/endgame-exploit)
 
-[Ryzee119/ogx360](https://github.com/Ryzee119/ogx360)
-
-[wiredopposite/OGX-Mini](https://github.com/wiredopposite/OGX-Mini)
-
-[TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit](https://github.com/TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit)
-
 [JayFoxRox/xbox-fps-overlay](https://github.com/JayFoxRox/xbox-fps-overlay)
 
 [LoveMHz/xbox-board-re](https://github.com/LoveMHz/xbox-board-re) (+ High res images + svg v1.6)
 
 [Pinecone](https://github.com/Xbox-Preservation-Project/Pinecone)
 
-[TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
-
 [Team-Resurgent/Pandora](https://github.com/Team-Resurgent/Pandora)
 
 [Xbox Hard Drive Compatibility Chart](https://xboxdrives.x-pec.com/?p=list)
 
 
-
 ## Open Source Hardware
 [Modxo - Pi Pico based Modchip](https://github.com/shalxmva/modxo)
 
-[OGX360](https://github.com/Ryzee119/ogx360)
+[Ryzee119/ogx360](https://github.com/Ryzee119/ogx360)
+
+[wiredopposite/OGX-Mini](https://github.com/wiredopposite/OGX-Mini)
+
+[TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit](https://github.com/TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit)
 
 [OpenXenium](https://github.com/Ryzee119/OpenXenium)
 
-## Groups / Individuals
+## Sources
 [Ryzee119](https://github.com/Ryzee119)
+
+[TEK-Nemesis](https://github.com/TEK-Nemesis)
+
+[TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
 
 Ashley Sheriff
 
