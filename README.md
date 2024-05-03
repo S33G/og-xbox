@@ -52,6 +52,8 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [Xbox Hard Drive Compatibility Chart](https://xboxdrives.x-pec.com/?p=list)
 
+[dx4m/Xbox-EEPROM-Utility](https://github.com/dx4m/Xbox-EEPROM-Utility)
+
 
 ## Open Source Hardware
 [Modxo - Pi Pico based Modchip](https://github.com/shalxmva/modxo)
