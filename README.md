@@ -54,6 +54,8 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [dx4m/Xbox-EEPROM-Utility](https://github.com/dx4m/Xbox-EEPROM-Utility)
 
+[lowtolerance/OGXMUOTA](https://github.com/lowtolerance/OGXMUOTA)
+
 
 ## Open Source Hardware
 [Modxo - Pi Pico based Modchip](https://github.com/shalxmva/modxo)
