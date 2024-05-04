@@ -56,6 +56,8 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [lowtolerance/OGXMUOTA](https://github.com/lowtolerance/OGXMUOTA)
 
+[N64-Freak/Xbox-CPU-interposer](https://github.com/N64-Freak/Xbox-CPU-interposer)
+
 
 ## Open Source Hardware
 [Modxo - Pi Pico based Modchip](https://github.com/shalxmva/modxo)
