@@ -12,7 +12,7 @@ My aim is to create a resource that reflects the collective knowledge and insigh
 
 Please note that the information presented here is currently in draft form and may contain inaccuracies or require further refinement.
 
-Feel free to <a href="#create_pr">create a pr</a> or <a href="#create_issue">or issue</a> in our repository. Whether you've spotted an error, have a suggestion for improvement, or want to share additional insights, your active participation is crucial.
+Feel free to create a pr or an <a href="https://github.com/S33G/og-xbox/issues/new">issue</a> in our repository. Whether you've spotted an error, have a suggestion for improvement, or want to share additional insights, your active participation is crucial.
 
 Thank you for your dedication in shaping this content into a valuable resource for the entire Xbox community. Together, we can create something truly exceptional!
 
@@ -48,21 +48,34 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [Pinecone](https://github.com/Xbox-Preservation-Project/Pinecone)
 
-[TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
+[Team-Resurgent/Pandora](https://github.com/Team-Resurgent/Pandora)
 
 [Xbox Hard Drive Compatibility Chart](https://xboxdrives.x-pec.com/?p=list)
 
+[dx4m/Xbox-EEPROM-Utility](https://github.com/dx4m/Xbox-EEPROM-Utility)
+
+[lowtolerance/OGXMUOTA](https://github.com/lowtolerance/OGXMUOTA)
+
+[N64-Freak/Xbox-CPU-interposer](https://github.com/N64-Freak/Xbox-CPU-interposer)
 
 
 ## Open Source Hardware
 [Modxo - Pi Pico based Modchip](https://github.com/shalxmva/modxo)
 
-[OGX360](https://github.com/Ryzee119/ogx360)
+[Ryzee119/ogx360](https://github.com/Ryzee119/ogx360)
+
+[wiredopposite/OGX-Mini](https://github.com/wiredopposite/OGX-Mini)
+
+[TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit](https://github.com/TEK-Nemesis/Original-OGX360-Internal-Conversion-Kit)
 
 [OpenXenium](https://github.com/Ryzee119/OpenXenium)
 
-## Groups / Individuals
+## Sources
 [Ryzee119](https://github.com/Ryzee119)
+
+[TEK-Nemesis](https://github.com/TEK-Nemesis)
+
+[TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
 
 Ashley Sheriff
 
