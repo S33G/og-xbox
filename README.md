@@ -70,6 +70,8 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [OpenXenium](https://github.com/Ryzee119/OpenXenium)
 
+[Xenium-Programmer Remake](https://github.com/dtomcat/XP-chip)
+
 ## Sources
 [Ryzee119](https://github.com/Ryzee119)
 
