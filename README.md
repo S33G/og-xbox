@@ -58,6 +58,8 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [N64-Freak/Xbox-CPU-interposer](https://github.com/N64-Freak/Xbox-CPU-interposer)
 
+[Halo 2 HD](https://github.com/grimdoomer/Halo-2-HD)
+
 
 ## Open Source Hardware
 [Modxo - Pi Pico based Modchip](https://github.com/shalxmva/modxo)
