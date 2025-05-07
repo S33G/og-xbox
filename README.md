@@ -60,6 +60,8 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [Halo 2 HD](https://github.com/grimdoomer/Halo-2-HD)
 
+[Prehistoricman/Xbox_SMC](https://github.com/Prehistoricman/Xbox_SMC)
+
 
 ## Open Source Hardware
 [Modxo - Pi Pico based Modchip](https://github.com/shalxmva/modxo)
@@ -88,4 +90,6 @@ Ashley Sheriff
 [UK Original Xbox Group](https://www.facebook.com/groups/620015468348420)
 
 [Xbox Preservation Project](https://github.com/Xbox-Preservation-Project)
+
+[Prehistoricman](https://github.com/Prehistoricman)
 
