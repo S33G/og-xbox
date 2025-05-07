@@ -74,6 +74,8 @@ Thank you for your dedication in shaping this content into a valuable resource f
 
 [Xenium-Programmer Remake](https://github.com/dtomcat/XP-chip)
 
+[Prehistoricman/Xbox256MB](https://github.com/Prehistoricman/Xbox256MB)
+
 ## Sources
 [Ryzee119](https://github.com/Ryzee119)
 
