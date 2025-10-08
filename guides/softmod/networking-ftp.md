@@ -103,10 +103,14 @@ To configure static IP, you need:
 3. Select **Network Setup**
 4. Choose **Manual Configuration**
 5. Enter network details:
-   - IP Address: 192.168.1.100
-   - Netmask: 255.255.255.0
-   - Default Gateway: 192.168.1.1
-   - DNS Server: 192.168.1.1
+
+| Setting | Value |
+|---------|-------|
+| IP Address | 192.168.1.100 |
+| Netmask | 255.255.255.0 |
+| Default Gateway | 192.168.1.1 |
+| DNS Server | 192.168.1.1 |
+
 6. Save configuration
 7. Test connection (Settings > Network > Network Status)
 

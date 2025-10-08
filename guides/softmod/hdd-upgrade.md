@@ -8,14 +8,15 @@ The original Xbox hard drive is an IDE (PATA) drive that stores games, saves, da
 
 ### Specifications
 
-**Original drives varied by manufacturer:**
-- **Western Digital:** WD80EB, WD100EB, WD200EB (8GB/10GB/20GB)
-- **Seagate:** ST310211A, ST310212A (10GB/20GB)  
-- **Samsung:** Various models (8GB/10GB)
-
-**Interface:** IDE/PATA (40-pin)
-**Form factor:** 3.5" desktop drive
-**Lock status:** Locked to specific console via EEPROM
+| Specification | Details |
+|---------------|---------|
+| **Manufacturers** | Western Digital, Seagate, Samsung |
+| **WD Models** | WD80EB, WD100EB, WD200EB (8GB/10GB/20GB) |
+| **Seagate Models** | ST310211A, ST310212A (10GB/20GB) |
+| **Samsung Models** | Various models (8GB/10GB) |
+| **Interface** | IDE/PATA (40-pin) |
+| **Form factor** | 3.5" desktop drive |
+| **Lock status** | Locked to specific console via EEPROM |
 
 ### Hard Drive Lock
 
@@ -78,10 +79,12 @@ On drives larger than stock (>8-10GB), additional partitions can be created:
 
 ### Size Limits
 
-**Theoretical maximum:** 2TB (with proper BIOS and tools)
-**Practical maximum:** 2TB SATA with IDE adapter
-**Minimum:** 8GB
-**Recommended:** 500GB - 2TB for large game libraries
+| Limit Type | Size | Notes |
+|------------|------|-------|
+| **Theoretical maximum** | 2TB | With proper BIOS and tools |
+| **Practical maximum** | 2TB | SATA with IDE adapter |
+| **Minimum** | 8GB | Smallest supported size |
+| **Recommended** | 500GB - 2TB | For large game libraries |
 
 ### Drive Types
 
