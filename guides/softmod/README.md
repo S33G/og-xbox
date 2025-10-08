@@ -1,5 +1,15 @@
 # Xbox Softmodding Guide
 
+## Related Guides
+
+This is a comprehensive guide to Xbox softmodding and the ENDGAME exploit. For specific topics, see:
+
+- **[Custom Dashboards Guide](dashboards.md)** - Detailed guide to UnleashX, XBMC, Evolution X, and Avalaunch
+- **[BIOS Guide](bios.md)** - Custom BIOS options, flashing, and configuration
+- **[HDD Upgrade Guide](hdd-upgrade.md)** - Hard drive replacement and partition management
+- **[Networking & FTP Guide](networking-ftp.md)** - Network configuration, FTP setup, and file transfer
+- **[Emulators & Homebrew Guide](emulators-homebrew.md)** - Retro gaming emulation and homebrew applications
+
 ## What is Softmodding?
 
 Softmodding is the process of modifying an Xbox console without the need for hardware modifications (like installing a modchip). This is accomplished by exploiting vulnerabilities in certain game save files to run unsigned code on the Xbox. Once softmodded, an Xbox can run homebrew applications, custom dashboards, emulators, and backup games.
