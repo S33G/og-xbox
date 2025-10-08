@@ -4,7 +4,7 @@ Greetings, Xbox Community!
 
 Welcome to Original Xbox Resources.
 
-Since release, the community surrounding the Original Xbox have achieved some amazing things. I wish to preserve information around the process so that everything is easily accessible to the community.
+Since release, the community surrounding the Original Xbox have achieved some amazing things. I wish to preserve information around the process so that everything is easily accessible to the community, hopefully forever..
 Your valuable contributions and feedback are welcomed to enhance the accuracy and quality of the information provided.
 
 My aim is to create a resource that reflects the collective knowledge and insights of the vibrant Xbox community.
@@ -14,9 +14,7 @@ My aim is to create a resource that reflects the collective knowledge and insigh
 
 Feel free to create a PR or an [issue](https://github.com/S33G/og-xbox/issues/new) in our repository. Whether you've spotted an error, have a suggestion for improvement, or want to share additional insights, your active participation is crucial.
 
-Thank you for your dedication in shaping this content into a valuable resource for the entire Xbox community. Together, we can create something truly exceptional!
-
-Useful resources for the original Xbox. For educational use only. This is a work in progress. Pull requests are more than welcome! My intention here is to provide a mirror of useful things collected in a easily navigable / accessible place.
+Useful resources for the original Xbox. For educational use only. This is a work in progress.
 
 <img src="modchips/x3/xecuter-3-chip.webp" width="300px" height="300px"/>
 
@@ -92,5 +90,12 @@ Ashley Sheriff
 
 [Xbox Preservation Project](https://github.com/Xbox-Preservation-Project)
 
-[Prehistoricman](https://github.com/Prehistoricman)
+This breadth of information and strong community wouldn't be what it is without these people:
 
+- [Ryzee119](https://github.com/Ryzee119)
+- [TEK-Nemesis](https://github.com/TEK-Nemesis)
+- [TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
+- Ashley Sheriff
+- [UK Original Xbox Group](https://www.facebook.com/groups/620015468348420)
+- [Xbox Preservation Project](https://github.com/Xbox-Preservation-Project)
+- [Prehistoricman](https://github.com/Prehistoricman)
