@@ -22,6 +22,11 @@ Useful resources for the original Xbox. For educational use only. This is a work
 
 ## Table of Contents
 
+### Guides
+
+- [Softmodding & ENDGAME Exploit](guides/softmod/README.md)
+- [TSOP Flashing](guides/tsop/README.md)
+
 ### Motherboards
 
 - [1.1 Motherboard](board/1.1/README.md)
@@ -76,6 +81,8 @@ Useful resources for the original Xbox. For educational use only. This is a work
 [Ryzee119](https://github.com/Ryzee119)
 
 [TEK-Nemesis](https://github.com/TEK-Nemesis)
+
+[ConsoleMods.org Wiki](https://consolemods.org/wiki/Xbox:Main_Page)
 
 [TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
 
