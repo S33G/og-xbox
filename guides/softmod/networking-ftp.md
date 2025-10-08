@@ -26,49 +26,11 @@ The Xbox does not have built-in wireless networking. Options include:
 
 ### DHCP (Automatic)
 
-**How it works:**
-- Xbox requests IP from router
-- Router assigns IP, gateway, DNS automatically
-- Simplest configuration
-
-**Advantages:**
-- Easy setup
-- No manual configuration
-- Works out of the box
-
-**Disadvantages:**
-- IP address may change
-- Makes FTP connection less reliable
-- Some dashboards poorly implement DHCP
-
-**When to use:**
-- Testing network connectivity
-- Temporary connections
-- One-time file transfers
+Xbox requests IP from router which assigns IP, gateway, and DNS automatically.
 
 ### Static IP (Recommended)
 
-**How it works:**
-- Manually assign IP address
-- Configure gateway and DNS
-- Xbox always uses same IP
-
-**Advantages:**
-- Consistent IP address
-- Reliable FTP connections
-- Better for network services
-- Easier to manage
-
-**Disadvantages:**
-- Requires manual configuration
-- Need to know network settings
-- Risk of IP conflicts if not managed
-
-**When to use:**
-- Permanent setups
-- Regular FTP usage
-- Insignia gaming
-- Media server access
+Manually assign IP address, gateway, and DNS. Xbox always uses the same IP for reliable FTP connections.
 
 ## Network Settings
 
@@ -214,30 +176,7 @@ Most custom dashboards include built-in FTP server:
 
 ### FTP Client Software
 
-**Recommended FTP clients:**
-
-**FileZilla (Free, cross-platform):**
-- Download: https://filezilla-project.org
-- User-friendly GUI
-- Supports drag-and-drop
-- Queue management
-
-**WinSCP (Windows, Free):**
-- Download: https://winscp.net
-- Explorer-like interface
-- Supports both FTP and SFTP
-- Powerful file operations
-
-**Cyberduck (Mac/Windows, Free):**
-- Download: https://cyberduck.io
-- Clean interface
-- Bookmark management
-- Good for Mac users
-
-**Command Line FTP:**
-- Built into Windows/Mac/Linux
-- Good for quick transfers
-- No GUI needed
+Use any FTP client such as FileZilla, WinSCP, Cyberduck, or the built-in command line FTP client.
 
 ### Connecting via FTP
 
@@ -275,42 +214,15 @@ Most dashboards use:
 
 ### Standard Partitions
 
-**C:\\ (System - ~500MB)**
-- Dashboard files
-- System files
-- BIOS (read-only on some systems)
-- Configuration files
-- ⚠️ **Caution:** Don't delete unless certain
-
-**E:\\ (Games/Data - Varies)**
-- User data
-- Games
-- Saves
-- Applications
-- Dashboards
-- Media files
-
-**F:\\ (Extended partition 1 - Optional)**
-- Additional storage
-- Games
-- Media
-
-**G:\\ (Extended partition 2 - Optional)**
-- Additional storage on large drives (>137GB)
-- Games
-- Media
-
-**X:\\ (BIOS - Runtime)**
-- Active during boot
-- Cannot modify while running
-
-**Y:\\ and Z:\\ (Cache)**
-- Temporary files
-- Game caches
-- Can safely delete contents
-
-**F:\\ (DVD Drive)**
-- Disc contents when inserted
+| Partition | Size | Purpose | Contents |
+|-----------|------|---------|----------|
+| **C:\\** | ~500MB | System | Dashboard files, system files, BIOS (read-only on some systems), configuration files. ⚠️ **Caution:** Don't delete unless certain |
+| **E:\\** | Varies | Games/Data | User data, games, saves, applications, dashboards, media files |
+| **F:\\** | Optional | Extended partition 1 | Additional storage, games, media |
+| **G:\\** | Optional | Extended partition 2 | Additional storage on large drives (>137GB), games, media |
+| **X:\\** | Runtime | BIOS | Active during boot, cannot modify while running |
+| **Y:\\ / Z:\\** | ~750MB each | Cache | Temporary files, game caches. Can safely delete contents |
+| **F:\\ (DVD)** | Variable | DVD Drive | Disc contents when inserted |
 
 ### Important Directories
 
