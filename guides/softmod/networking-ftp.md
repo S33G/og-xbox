@@ -60,7 +60,6 @@ To configure static IP, you need:
 ### Finding Your Network Settings (PC)
 
 **Windows:**
-```
 1. Open Command Prompt
 2. Type: ipconfig
 3. Note:
@@ -68,23 +67,18 @@ To configure static IP, you need:
    - Subnet Mask
    - Default Gateway
    - DNS Servers
-```
 
 **Mac:**
-```
 1. System Preferences > Network
 2. Select active connection
 3. Click "Advanced"
 4. Note TCP/IP and DNS settings
-```
 
 **Linux:**
-```
 1. Open terminal
 2. Type: ip addr show
 3. Type: ip route show
 4. Note network information
-```
 
 ## Configuring Network on Xbox
 
@@ -193,11 +187,9 @@ Use any FTP client such as FileZilla, WinSCP, Cyberduck, or the built-in command
 5. Browse Xbox filesystem
 
 **Command Line Example:**
-```
 ftp 192.168.1.100
 Username: xbox
 Password: xbox
-```
 
 ### FTP Default Credentials
 
@@ -506,16 +498,12 @@ Some users run Xbox traffic through VPN:
 ### PC Tools for Troubleshooting
 
 **Ping:**
-```
 ping 192.168.1.100
-```
 Tests basic connectivity
 
 **Traceroute:**
-```
 tracert 192.168.1.100  (Windows)
 traceroute 192.168.1.100  (Mac/Linux)
-```
 Shows network path
 
 **Port Scanner:**
@@ -531,34 +519,28 @@ Shows network path
 
 ### Home Gaming Setup
 
-```
 Xbox: 192.168.1.100 (Static)
 Subnet: 255.255.255.0
 Gateway: 192.168.1.1 (Router)
 DNS: 192.168.1.1
 FTP: Enabled, changed password
-```
 
 ### Media Center Setup
 
-```
 Xbox: 192.168.1.100 (Static)
 Subnet: 255.255.255.0  
 Gateway: 192.168.1.1
 DNS: 192.168.1.1
 SMB: Configured for NAS access
 Media Shares: Mounted in XBMC
-```
 
 ### Insignia Gaming Setup
 
-```
 Xbox: 192.168.1.100 (Static)
 Subnet: 255.255.255.0
 Gateway: 192.168.1.1
 DNS: Insignia DNS servers
 Port Forwarding: UDP 3074 → 192.168.1.100
-```
 
 ## Resources
 
