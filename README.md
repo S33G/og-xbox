@@ -72,18 +72,14 @@ Useful resources for the original Xbox. For educational use only. This is a work
 
 [Prehistoricman/Xbox256MB](https://github.com/Prehistoricman/Xbox256MB)
 
-## Sources
-[Ryzee119](https://github.com/Ryzee119)
+## Attribution
 
-[TEK-Nemesis](https://github.com/TEK-Nemesis)
+This breadth of information and strong community wouldn't be what it is without these people:
 
-[TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
-
-Ashley Sheriff
-
-[UK Original Xbox Group](https://www.facebook.com/groups/620015468348420)
-
-[Xbox Preservation Project](https://github.com/Xbox-Preservation-Project)
-
-[Prehistoricman](https://github.com/Prehistoricman)
-
+- [Ryzee119](https://github.com/Ryzee119)
+- [TEK-Nemesis](https://github.com/TEK-Nemesis)
+- [TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
+- Ashley Sheriff
+- [UK Original Xbox Group](https://www.facebook.com/groups/620015468348420)
+- [Xbox Preservation Project](https://github.com/Xbox-Preservation-Project)
+- [Prehistoricman](https://github.com/Prehistoricman)
