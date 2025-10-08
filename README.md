@@ -20,6 +20,11 @@ Useful resources for the original Xbox. For educational use only. This is a work
 
 ## Table of Contents
 
+### Guides
+
+- [Softmodding & ENDGAME Exploit](guides/softmod/README.md)
+- [TSOP Flashing](guides/tsop/README.md)
+
 ### Motherboards
 
 - [1.1 Motherboard](board/1.1/README.md)
@@ -70,7 +75,20 @@ Useful resources for the original Xbox. For educational use only. This is a work
 
 [Prehistoricman/Xbox256MB](https://github.com/Prehistoricman/Xbox256MB)
 
-## Attribution
+## Sources
+[Ryzee119](https://github.com/Ryzee119)
+
+[TEK-Nemesis](https://github.com/TEK-Nemesis)
+
+[ConsoleMods.org Wiki](https://consolemods.org/wiki/Xbox:Main_Page)
+
+[TSOP Flashing Unlock Points](http://www.biline.ca/xbox_solder.htm)
+
+Ashley Sheriff
+
+[UK Original Xbox Group](https://www.facebook.com/groups/620015468348420)
+
+[Xbox Preservation Project](https://github.com/Xbox-Preservation-Project)
 
 This breadth of information and strong community wouldn't be what it is without these people:
 
